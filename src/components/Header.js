@@ -15,7 +15,7 @@ const Header = () => {
 								<NavDropdown.Item href='/day-3-solutions'>
 									Day 3
 								</NavDropdown.Item>
-								<NavDropdown.Item href='#4'>Day 4</NavDropdown.Item>
+								<NavDropdown.Item href='/day-4-solutions'>Day 4</NavDropdown.Item>
 							</NavDropdown>
 						</Nav>
 					</Navbar.Collapse>

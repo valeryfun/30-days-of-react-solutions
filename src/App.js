@@ -7,6 +7,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import day3 from './screens/day3'
+import Day4 from './screens/day4'
 
 library.add(faCheckCircle)
 
@@ -16,7 +17,8 @@ const App = () => {
 			<Header />
 			<main className='py-3'>
 				<Container>
-					<Route path='/day-3-solutions' component={day3} />{' '}
+					<Route path='/day-3-solutions' component={day3} />
+					<Route path='/day-4-solutions' component={Day4} />
 				</Container>
 			</main>
 			<Footer />
