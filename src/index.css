@@ -40,3 +40,17 @@ code {
   box-shadow: 5px 5px 5px lightgray;
   padding: 0px !important;
 }
+
+.day6-card{
+  height: 100px;
+  width: 100px;
+  border: 1px solid lightgray;
+  text-align: center;
+  line-height: 6rem;
+  margin: 5px;
+}
+
+.day6-container{
+  display: flex;
+  flex-wrap: wrap;
+}
