@@ -5,7 +5,7 @@ const GenerateHexCodes = () => {
 	var colors = []
 	while (colors.length < 36) {
 		do {
-			var color = Math.floor(Math.random() * 100000 + 1)
+			var color = Math.floor(Math.random() * 100000000 + 1)
 		} while (colors.indexOf(color) >= 0)
 		colors.push('#' + ('000000' + color.toString(16)).slice(-6))
 	}
