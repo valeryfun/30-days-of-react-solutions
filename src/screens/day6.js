@@ -2,6 +2,7 @@ import React from 'react'
 import { Row, Col } from 'react-bootstrap'
 import Day3FormContainer from '../components/Day3FormContainer'
 import GenerateNumber from '../components/GenerateNumber'
+import GenerateHexCodes from '../components/GenerateHexCodes'
 
 const Day6 = () => {
 	return (
@@ -11,6 +12,14 @@ const Day6 = () => {
 			<Row>
 				<Col>
 					<GenerateNumber />
+				</Col>
+			</Row>
+			<Row>
+				<p>Hex Code Generator</p>
+			</Row>
+			<Row>
+				<Col>
+					<GenerateHexCodes />
 				</Col>
 			</Row>
 		</Day3FormContainer>
