@@ -54,3 +54,9 @@ code {
   display: flex;
   flex-wrap: wrap;
 }
+
+.day6-exercise{
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+}
