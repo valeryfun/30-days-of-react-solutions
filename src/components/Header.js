@@ -10,7 +10,7 @@ const Header = () => {
 					<Navbar.Toggle aria-controls='basic-navbar-nav' />
 					<Navbar.Collapse id='basic-navbar-nav'>
 						<Nav classname='mr-auto'>
-							<Nav.Link>Home</Nav.Link>
+							<Nav.Link href='/'>Home</Nav.Link>
 							<NavDropdown title='Solutions' id='collapse-dropdown'>
 								<NavDropdown.Item href='/day-3-solutions'>
 									Day 3
@@ -21,8 +21,12 @@ const Header = () => {
 								<NavDropdown.Item href='/day-6-solutions'>
 									Day 6
 								</NavDropdown.Item>
+								<NavDropdown.Item href='/day-8-solutions'>
+									Day 8
+								</NavDropdown.Item>
 							</NavDropdown>
 						</Nav>
+						<Nav className='ml-auto'></Nav>
 					</Navbar.Collapse>
 				</Container>
 			</Navbar>
