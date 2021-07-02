@@ -1,8 +1,9 @@
 # 30 days of React Challenge Solutions
 
 This project is part of the 30 days of Reach Challenge created by Asabeneh.
-You can find his repo here: https://github.com/Asabeneh/30-Days-Of-React
-This project is for me to practice basic React skills while creating a UI.
+You can find his repo here: https://github.com/Asabeneh/30-Days-Of-React.
+
+This project is for me to practice and recall basic React skills while creating a UI.
 
 ## Available Scripts
 
