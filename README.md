@@ -24,3 +24,9 @@ Hex Codes are randomly generated upon loading/refresh.
 2. Mapping Array of Objects to Chart.js
 
 <img width="1353" alt="Screenshot 2021-06-30 at 10 09 08 PM" src="https://user-images.githubusercontent.com/60170717/123975696-1dc8a800-d9f0-11eb-86f6-a271e4cedeae.png">
+
+3. Where to travel next?
+Fetching data from https://restcountries.eu/rest/v2/all and randomly generate a country's name and flag.
+
+![screencapture-localhost-3000-day-8-solutions-2021-07-09-16_53_23](https://user-images.githubusercontent.com/60170717/125052471-95749200-e0d6-11eb-8aeb-53a1c9561c29.png)
+
