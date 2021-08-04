@@ -24,6 +24,9 @@ const Header = () => {
 								<NavDropdown.Item href='/day-8-solutions'>
 									Day 8
 								</NavDropdown.Item>
+								<NavDropdown.Item href='/day-11-solutions'>
+									Day 11
+								</NavDropdown.Item>
 							</NavDropdown>
 						</Nav>
 						<Nav className='ml-auto'></Nav>

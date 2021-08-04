@@ -11,6 +11,7 @@ import day3 from './screens/day3'
 import Day4 from './screens/day4'
 import Day6 from './screens/day6'
 import Day8 from './screens/Day8'
+import Day11 from './screens/Day11'
 import Switch from './components/Switch'
 
 library.add(faCheckCircle, faSun, faMoon)
@@ -37,6 +38,7 @@ const App = () => {
 						<Route path='/day-4-solutions' component={Day4} />
 						<Route path='/day-6-solutions' component={Day6} />
 						<Route path='/day-8-solutions' component={Day8} />
+						<Route path='/day-11-solutions' component={Day11} />
 					</Container>
 				</main>
 				<Footer />
