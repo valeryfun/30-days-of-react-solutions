@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/60170717/128175773-9c99fe4c-365f-485e-8987-daf0d7841ddc.mov
+
 # 30 days of React Challenge Solutions
 
 This project is part of the 30 days of Reach Challenge created by Asabeneh.
@@ -33,7 +37,10 @@ Fetching data from https://restcountries.eu/rest/v2/all and randomly generate a 
 4. Drag and drop with react-beautiful-dnd
 A simple drag and drop function to re-order items in a list using react-beautiful-dnd.
 Registers the state of ordered items. 
-![Screen Recording 2021-08-04 at 7 45 55 PM](https://user-images.githubusercontent.com/60170717/128175713-46499477-436e-4478-beb3-23194bed6354.gif)
+
+https://user-images.githubusercontent.com/60170717/128175811-d1413523-6504-48fb-af47-b40a78cf271f.mov
+
+
 
 
 
