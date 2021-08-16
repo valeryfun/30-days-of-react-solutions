@@ -30,3 +30,16 @@ Fetching data from https://restcountries.eu/rest/v2/all and randomly generate a 
 
 ![screencapture-localhost-3000-day-8-solutions-2021-07-09-16_53_23](https://user-images.githubusercontent.com/60170717/125052471-95749200-e0d6-11eb-8aeb-53a1c9561c29.png)
 
+4. Drag and drop with react-beautiful-dnd
+A simple drag and drop function to re-order items in a list using react-beautiful-dnd.
+Registers the state of ordered items. 
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/60170717/128176199-59c084bc-ef4a-475b-b858-06ba74991d4c.gif)
+
+
+
+
+
+
+
+
